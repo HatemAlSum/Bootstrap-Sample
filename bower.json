@@ -1,0 +1,13 @@
+{
+  "name": "moasite",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~3.2.1",
+    "bootstrap": "~3.3.7"
+  },
+  "devDependencies": {
+  },
+  "resolutions": {
+    "jquery": "~3.3.7"
+  }
+}
